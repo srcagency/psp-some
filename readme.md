@@ -1,6 +1,6 @@
 # Pull stream some
 
-A pull-stream version of `Array.prototype.some` returning a callback.
+A pull-stream version of `Array.prototype.some` returning a promise.
 
 ```js
 some(test)
